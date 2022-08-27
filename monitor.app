@@ -1,3 +1,0 @@
-protheus
-grafana
-dolce gabana
